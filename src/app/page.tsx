@@ -7,7 +7,7 @@ const page = () => {
     <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-          "Hello. I'm RIZWAN AHMED from RAHIM YAR KHAN. I'm a student of BScs. I'm a MUSLIM. Now I started to learn AI and INSHAALLAH one day I will succeed."
+          "Hello. I'm RIZWAN AHMED from RAHIM YAR KHAN. I'm a student of BSCS.       I'm a MUSLIM. Now I started to learn AI and INSHAALLAH one day I will succeed."
         </p>
       </blockquote>
       <figcaption className="font-medium">
@@ -15,7 +15,7 @@ const page = () => {
           RIZWAN AHMED
         </div>
         <div className="text-slate-700 dark:text-slate-500">
-      STUDENT OF BScs,RYK
+      STUDENT OF BSCS,RYK
         </div>
       </figcaption>
     </div>
